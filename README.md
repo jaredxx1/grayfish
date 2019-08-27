@@ -1,7 +1,7 @@
 <h1> Gray Fish v2019.08</h1>
 <p>Gray Fish provides fully undetectable phishing pages. Are you bored of getting link blocked by facebook or other sites? Does your hosting provider suspend your account(e.g 000webhost)? Don't lose hope. Try Gray Fish. Hackers are 10 times more clever than simple programmers. But they don't tell you everything. <b>Before using it, make sure to read all article to avoid any problem.</b></p>
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
-<h1> Gray Admin Login Panel</h1>
+<h1> Gray Fish Admin Login Panel</h1>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>
 <h2> Usage</h2>

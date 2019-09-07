@@ -46,12 +46,4 @@ git clone https://github.com/graysuit/grayfish.git
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
 <li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
 <li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li></ul>
-<h2> Useful resources for learning</h2>
-<ul><li><a href="https://developers.facebook.com/docs/sharing/webmasters/crawler/">Facebook user-agents</a></li>
-<li><a href="https://www.optimizesmart.com/understanding-facebook-referral-traffic-google-analytics/">Facebook referrals</a></li>
-<li><a href="https://www.w3schools.com/tags/att_input_required.asp">HTML input required Attribute</a></li>
-<li><a href="https://www.codespeedy.com/get-the-referral-url-in-php/">Referral URL in PHP</a></li>
-<li><a href="http://bit.do">URL shortener with custom name</a></li>
-<li><a href="https://www.w3schools.com/php/php_if_else.asp">If Else in PHP</a></li>
-<li><a href="https://www.w3schools.com/php/php_operators.asp">or and && ! == in PHP</a></li></ul>
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>

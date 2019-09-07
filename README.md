@@ -21,8 +21,8 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be saved as password.txt</li></ol></p><br>
 <h2> Gray Fish Admin Panel Default user & pass:</h2>
-<ul><li>Username = <b>fish</b></li>
-<li>Password = <b>fish</b></li></ul>
+<ul><li>Username = <b><mark>fish</mark></b></li>
+<li>Password = <b><mark>fish</mark></b></li></ul>
 <h2>How they detect phishing?</h2>
 <p>Different websites use different algorithms + user-agents + IPs to detect phishing. If they found similarities to original login pages then they simply block the phishing URL and also report it to host provider. And thus your account suspended.</p>
 <p><b>What if we detect and allow only users with a specific referral?</b> I mean phishing page should be displayed only if a person came from a specific site.</p>

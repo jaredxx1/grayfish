@@ -20,7 +20,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be saved as password.txt</li><ol></p><br>
-<h1> Gray Fish Admin Login Panel</h1>
+<h2> Gray Fish Admin Panel Default user & pass:</h2>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>
 <h2>How they detect phishing?</h2>

@@ -14,12 +14,12 @@
 <pre><code>
 git clone https://github.com/graysuit/grayfish.git
 </code></pre>
-<br><p><ol><li>Upload all files inside folder to any hosting you like</li>
+<br><p><ol><li>Upload all files inside folder to any web hosting you like</li>
 <li>Enter your sitename and fill username & password(Default user & pass is <b>fish</b>)</li>
 <li>Select any phishing page and copy that link</li>
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
-<li><b>Note:</b> Username/Password will be saved as password.txt</li><ol></p><br>
+<li><b>Note:</b> Username/Password will be saved as password.txt</li></ol></p><br>
 <h2> Gray Fish Admin Panel Default user & pass:</h2>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>

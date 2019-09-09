@@ -1,0 +1,17 @@
+
+# HTID:10393615: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:10393615:
+# HTID:10393668: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+
+#Redirect from http to https starts...
+RewriteEngine On 
+RewriteCond %{HTTPS} !on 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$ 
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$ 
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+#Redirect from http to https ends...
+
+#No display of files
+Options All -Indexes
+ 

@@ -25,14 +25,14 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Password = <b>fish</b></li></ul>
 <h2>How they detect phishing?</h2>
 <p>Different websites use different algorithms + user-agents + IPs to detect phishing. If they found similarities to original login pages then they simply block the phishing URL and also report it to host provider. And thus your account suspended.</p>
-<p><b>What if we detect and allow only users with a specific referral?</b> I mean phishing page should be displayed only if a person came from a specific site.</p>
+<p><b>What if we detect and allow only users with a user-agent?</b></p>
 <h2>How it is undetectable?</h2>
-<p>It displays phishing page to only those who came from the respective site. For example, if a person has clicked the link from facebook and webpage also is of facebook then phishing page will load, Else it will be directed to <b>meta_tags.html</b> file. It helps prevent detected by facebook crawlers and browsers.</p>
+<p>It displays phishing page to only those who have human user-agents. For example, if a person has this type of user-gent (Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30) then phishing page will load, Else it will be directed to <b>phishing_info</b> folder. It helps prevent detected by facebook & other crawlers.</p>
 <p><img src="https://i.ibb.co/52sz8C5/facebook-mobile-fake-security.png" style="width:40px;height:40px;align:middle;" alt="facebook-mobile-fake-security" border="0">
 <img src="https://i.ibb.co/X5ZRkS2/instagram.png" style="width:10px;height:10px;align:middle;" alt="instagram" border="0"></p>
 <h2> Tips to Follow</h2>
 <p><ol><li>Don't share links frequently. It is considered as spam by bots.</li>
-	<li>Share the link only to the victim, not the whole planet.</li>
+	<li>Share the link only to the victim, not to whole planet.</li>
 	<li>Don't use domains that are already restricted or banned(e.g sitename.000webhostapp.com, sitename.htmlpasta.com, etc).</li>
 	<li>Use hosting providers that provides valid SSL certificate(https:// not http://).</li>
 	<li>Shorten URL before sending link.</li>

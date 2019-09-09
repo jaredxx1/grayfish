@@ -28,8 +28,7 @@ git clone https://github.com/graysuit/grayfish.git
 <p><b>What if we detect and allow only users with a user-agent?</b></p>
 <h2>How it is undetectable?</h2>
 <p>It displays phishing page to only those who have human user-agents. For example, if a person has this type of user-gent (Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30) then phishing page will load, Else it will be directed to <b>phishing_info</b> folder. It helps prevent detected by facebook & other crawlers.</p>
-<p><img src="https://i.ibb.co/52sz8C5/facebook-mobile-fake-security.png" style="width:40px;height:40px;align:middle;" alt="facebook-mobile-fake-security" border="0">
-<img src="https://i.ibb.co/X5ZRkS2/instagram.png" style="width:10px;height:10px;align:middle;" alt="instagram" border="0"></p>
+<h2><a href=https://github.com/graysuit/grayfish/wiki/Screenshots>Screenshots</a></h2>
 <h2> Tips to Follow</h2>
 <p><ol><li>Don't share links frequently. It is considered as spam by bots.</li>
 	<li>Share the link only to the victim, not to whole planet.</li>

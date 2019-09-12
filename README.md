@@ -25,7 +25,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Password = <b>fish</b></li></ul>
 <h2> Video tutorial</h2>
 <center>
-<a href="https://youtu.be/PZ4qqaF1XWw"><img src="https://i.ytimg.com/vi/PZ4qqaF1XWw/maxresdefault.jpg" width="600" height="400" ></a></center>
+<a href="https://youtu.be/PZ4qqaF1XWw"><img src="https://i.ibb.co/Lzhb2YZ/gray-fish-video.jpg" width="600" height="400" ></a></center>
 <h2>How they detect phishing?</h2>
 <p>Different websites use different algorithms + user-agents + IPs to detect phishing. If they found similarities to original login pages then they simply block the phishing URL and also report it to host provider. And thus your account suspended.</p>
 <p><b>What if we detect and allow only users with a user-agent?</b></p>

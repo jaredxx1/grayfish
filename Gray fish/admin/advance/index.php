@@ -24,6 +24,10 @@ highlight_file($dir.$a[6]);
 echo '<hr><br>';
 echo '<h1><li>'.$a[7].'</li></h1>';
 highlight_file($dir.$a[7]);
+                                                                                                               
+echo '<hr><br>';
+echo '<h1><li>'.$a[8].'</li></h1>';
+highlight_file($dir.$a[8]);
 
 echo '<hr><br>';
 echo '</ol>';}else{echo'<script>window.location.replace(".././dashboard.php");</script>';}}else{echo'<script>window.location.replace(".././dashboard.php");</script>';}?>

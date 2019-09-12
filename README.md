@@ -8,7 +8,6 @@
 <li>Codes are highly compressed. Extra codes have been removed.</li>
 <li>Login form can't be bypass until all inputs have been filled by a victim.</li>
 <li>Link with custom preview(image + title + description) when shared on any website.</li>
-<li><b>post_database.php</b> saves info in a database. And <b>post_in_file.php</b> saves info on file. Default is <b>post_in_file.php</b>. You can change it from the page by searching for "action=".</li>
 <li>Admin login panel has been created for absolute dummies.</li></ul>
 <h2> Usage</h2>
 <pre><code>

@@ -19,6 +19,16 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be displayed in admin panel</li></ol></p><br>
+<h2> Available phishing sites/templates</h2>
+<details>
+<summary>Click me to view sites</summary>
+<br><ol><li>Facebook_mobile</li>
+<li>Facebook_mobile_fake_security</li>
+<li>Instagram</li>
+<li>Messenger</li>
+<li>Twitter_desktop</li>
+<li>Wordpress</li>
+<li>Yahoo</li></ol></details>
 <h2> Gray Fish Admin Panel Default user & pass:</h2>
 <ul><li>Username = <b>fish</b></li>
 <li>Password = <b>fish</b></li></ul>

@@ -27,6 +27,7 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Instagram</li>
 <li>Linkedin</li>
 <li>Netflix</li>
+<li>Snapchat</li>
 <li>Tumblr</li>
 <li>Messenger</li>
 <li>Twitter_desktop</li>

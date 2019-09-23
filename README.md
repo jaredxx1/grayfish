@@ -3,7 +3,7 @@
 <center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
 <h2> Features</h2>
 <ul><li>Fully undetectable (means Link will not get blocked + Hosting provider will not suspend your account).</li>
-<li>All Templates are under 20KBs that helps in loading webpages fast.</li>
+<li>Almost, all Templates are under 20KBs that helps in loading webpages fast.</li>
 <li>Images are encoded in base64 to avoid external + internal linking.</li>
 <li>Codes are highly compressed. Extra codes have been removed.</li>
 <li>Login form can't be bypass until all inputs have been filled by a victim.</li>

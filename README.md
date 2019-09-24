@@ -22,7 +22,8 @@ git clone https://github.com/graysuit/grayfish.git
 <h2> Available phishing sites/templates</h2>
 <details>
 <summary>Click me to view sites</summary>
-<br><ol><li>Facebook_mobile</li>
+<br><ol><li>Facebook_desktop_homepage</li>
+<li>Facebook_mobile</li>
 <li>Facebook_mobile_fake_security</li>
 <li>Instagram</li>
 <li>Linkedin</li>
